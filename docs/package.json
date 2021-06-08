@@ -37,8 +37,5 @@
       "extensions": "adoc"
     }
   },
-  "devDependencies": {
-    "cheerio": "^1.0.0-rc.3",
-    "hyperlink": "^4.6.0"
-  }
+  "devDependencies": {}
 }
